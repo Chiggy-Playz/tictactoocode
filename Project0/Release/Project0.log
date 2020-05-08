@@ -1,0 +1,374 @@
+﻿  Main.cpp
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(2,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(4,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(5,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(17,16): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(19,41): warning C4244:  'argument': conversion from 'float' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(19,41): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(19,41): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(19,41): warning C4244:             T=int
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(19,41): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(32,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(36,28): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(42,34): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(48,34): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(55,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(61,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(67,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(73,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(79,48): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(85,46): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(315,49): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(315,49): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(315,49): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(315,49): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(315,49): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(338,50): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(338,50): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(338,50): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(338,50): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(338,50): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(357,50): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(357,50): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(357,50): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(357,50): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(357,50): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(377,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(377,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(377,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(377,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(377,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(396,62): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(396,62): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(396,62): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(396,62): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(396,62): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(415,62): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(415,62): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(415,62): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(415,62): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(415,62): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(435,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(435,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(435,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(435,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(435,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(454,62): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(454,62): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(454,62): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(454,62): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(454,62): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(473,62): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(473,62): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(473,62): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(473,62): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(473,62): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(519,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(519,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(519,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(519,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(519,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(520,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(520,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(520,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(520,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(520,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(533,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(533,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(533,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(533,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(533,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(534,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(534,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(534,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(534,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(534,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(547,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(547,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(547,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(547,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(547,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(548,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(548,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(548,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(548,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(548,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(558,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(558,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(558,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(558,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(558,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(559,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(559,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(559,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(559,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(559,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(571,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(571,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(571,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(571,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(571,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(572,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(572,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(572,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(572,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(572,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(582,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(582,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(582,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(582,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(582,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(583,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(583,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(583,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(583,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(583,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(597,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(597,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(597,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(597,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(597,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(598,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(598,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(598,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(598,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(598,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(608,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(608,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(608,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(608,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(608,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(609,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(609,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(609,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(609,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(609,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(621,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(621,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(621,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(621,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(621,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(622,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(622,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(622,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(622,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(622,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(632,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(632,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(632,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(632,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(632,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(633,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(633,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(633,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(633,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(633,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(645,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(645,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(645,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(645,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(645,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(646,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(646,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(646,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(646,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(646,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(657,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(657,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(657,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(657,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(657,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(658,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(658,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(658,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(658,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(658,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(671,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(671,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(671,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(671,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(671,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(672,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(672,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(672,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(672,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(672,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(682,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(682,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(682,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(682,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(682,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(683,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(683,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(683,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(683,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(683,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(695,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(695,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(695,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(695,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(695,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(696,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(696,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(696,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(696,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(696,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(706,60): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(706,60): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(706,60): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(706,60): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(706,60): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(707,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(707,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(707,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(707,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(707,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(716,55): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(716,55): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(716,55): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(716,55): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(716,55): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(731,41): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(731,41): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(731,41): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(731,41): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(731,41): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(732,57): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(732,57): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(732,57): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(732,57): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(732,57): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(733,57): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(733,57): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(733,57): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(733,57): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(733,57): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(734,57): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(734,57): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(734,57): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(734,57): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(734,57): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(736,52): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(736,52): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(736,52): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(736,52): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(736,52): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(737,50): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(737,50): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(737,50): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(737,50): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(737,50): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(738,47): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(738,47): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(738,47): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(738,47): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(738,47): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(758,43): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(758,43): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(758,43): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(758,43): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(758,43): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(759,57): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(759,57): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(759,57): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(759,57): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(759,57): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(760,57): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(760,57): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(760,57): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(760,57): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(760,57): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(761,57): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(761,57): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(761,57): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(761,57): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(761,57): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(792,57): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(792,57): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(792,57): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(792,57): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(792,57): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(793,57): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(793,57): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(793,57): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(793,57): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(793,57): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(794,57): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(794,57): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(794,57): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(794,57): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(794,57): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(802,58): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(802,58): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(802,58): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(802,58): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(802,58): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(803,52): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(803,52): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(803,52): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(803,52): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(803,52): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(807,54): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(807,54): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(807,54): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(807,54): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(807,54): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(810,53): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(810,53): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(810,53): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(810,53): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(810,53): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(813,49): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(813,49): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(813,49): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(813,49): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(813,49): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(814,49): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(814,49): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(814,49): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(814,49): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(814,49): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(815,49): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(816,51): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(827,42): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(827,42): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(827,42): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(827,42): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(827,42): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(828,58): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(828,58): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(828,58): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(828,58): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(828,58): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(829,58): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(829,58): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(829,58): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(829,58): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(829,58): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(830,58): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(830,58): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(830,58): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(830,58): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(830,58): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(832,53): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(832,53): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(832,53): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(832,53): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(832,53): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(833,51): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(833,51): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(833,51): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(833,51): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(833,51): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(834,48): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(834,48): warning C4244:         with
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(834,48): warning C4244:         [
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(834,48): warning C4244:             T=float
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(834,48): warning C4244:         ]
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(839,50): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+D:\Visual Studio\sfml\try\Project0\Project0\Main.cpp(840,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 83 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project0.vcxproj -> D:\Visual Studio\sfml\try\Project0\Release\Tic Tac Toe.exe
